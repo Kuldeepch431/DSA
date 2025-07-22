@@ -1,3 +1,5 @@
+//Time Complexity : O(N)
+
 import java.util.ArrayList;
 import java.util.List;
 

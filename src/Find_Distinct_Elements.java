@@ -2,6 +2,8 @@
 Problem : Given a N x N matrix M. Write a program to find count of all the distinct elements common to all rows of the matrix. Print count of such elements.
 Time Complexity : O(N*N)
  */
+import java.util.*;
+
 public class Find_Distinct_Elements {
     public static void main(String[] args) {
         int N = 4;

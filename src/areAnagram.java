@@ -1,3 +1,7 @@
+/*
+Problem : Given two non-empty strings s1 and s2, consisting only of lowercase English letters, determine whether they are anagrams of each other or not. Two strings are considered anagrams if they contain the same characters with exactly the same frequencies, regardless of their order.
+Time Complexity : O(N)
+*/
 public class areAnagram {
     public static void main(String[] args) {
         System.out.println(fun("abc","bac"));
